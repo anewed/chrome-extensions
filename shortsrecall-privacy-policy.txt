@@ -1,0 +1,17 @@
+ShortsRecall Privacy Policy
+
+Last Updated: March 2, 2026
+
+Your privacy is our highest priority at ShortsRecall. We built this extension specifically to act as a local Second Brain.
+
+1. Data Collection and Storage. ShortsRecall extracts metadata (video title, channel name, thumbnail URL) and spoken transcripts/captions only from videos you actively watch on youtube.com/shorts/ and tiktok.com/. All data extracted by ShortsRecall is stored locally on your device using Chrome's IndexedDB.
+
+2. Data Transmission. We do not transmit your video history, search queries, or transcripts to any external servers, third-party databases, or analytics providers. Your data never leaves your computer.
+
+3. Pro Version AI Capabilities. If you subscribe to ShortsRecall Pro, the AI Semantic Search feature utilizes a lightweight, local AI model (run in your browser). Your search queries and transcripts are processed entirely locally. They are not sent to OpenAI, Google, or any other external API.
+
+4. External Services. The only external connection ShortsRecall makes is to ExtensionPay (Stripe) solely to verify your subscription status (Free vs. Pro tier) securely.
+
+5. User Control. Because all data is stored locally, you have complete control. Uninstalling the ShortsRecall Chrome extension will permanently delete all your saved video transcripts and data from your browser.
+
+If you have any questions about this privacy policy, please contact anewed@gmail.com.
